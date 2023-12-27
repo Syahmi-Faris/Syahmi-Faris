@@ -16,16 +16,17 @@ Never Back Down Never What !!!!!
 
 - 📫 How to reach me **fsyahmi0707@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syahmi-faris&label=Profile%20views&color=0e75b6&style=flat" alt="syahmi-faris" /> </p>
-MY REPOSITORY :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syahmi-faris" alt="syahmi-faris" /> </p>
 
-PROGRAMMING TECHNIQUE  : https://github.com/Syahmi-Faris/Programming-Technique.git
+MY REPOSITORY 
 
-DIGITAL LOGIC          :
+- PROGRAMMING TECHNIQUE  : https://github.com/Syahmi-Faris/Programming-Technique.git
 
-DISCRETE STRUCTURE     :
+- DIGITAL LOGIC          : https://github.com/Syahmi-Faris/Digital-Logic.git
 
-TECHNOLOGY INFORMATION SYSTEM  :
+- DISCRETE STRUCTURE     : https://github.com/Syahmi-Faris/Discrete-Structure.git
+
+- TECHNOLOGY INFORMATION SYSTEM  : https://github.com/Syahmi-Faris/Technology-Information-System.git
 
 
 <h3 align="left">Connect with me:</h3>
