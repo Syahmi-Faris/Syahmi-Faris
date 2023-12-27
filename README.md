@@ -16,7 +16,7 @@ Never Back Down Never What !!!!!
 
 - 📫 How to reach me **fsyahmi0707@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syahmi-faris" alt="syahmi-faris" /> </p>
+<p align="left"> </p>
 
 MY REPOSITORY 
 
