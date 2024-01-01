@@ -10,8 +10,7 @@ Never Back Down Never What !!!!!
 
 - 🤝 I’m looking for help with **programming language**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.syahmi.html](http://127.0.0.1:5500/index.syahmi.html)
-
+- 👨‍💻 All of my projects are available at [[[http://127.0.0.1:5500/index.syahmi.html](http://tinyurl.com/2ahcd699)](http://tinyurl.com/2ahcd699)]
 - 💬 Ask me about **anything about science computer**
 
 - 📫 How to reach me **fsyahmi0707@gmail.com**
