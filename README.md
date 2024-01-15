@@ -19,7 +19,7 @@ Never Back Down Never What !!!!!
 
 MY REPOSITORY 
 
-- PROGRAMMING TECHNIQUE  : https://github.com/Syahmi-Faris/Programming-Technique.git
+- [PROGRAMMING TECHNIQUE](https://github.com/Syahmi-Faris/Programming-Technique.git)
 
 - DIGITAL LOGIC          : https://github.com/Syahmi-Faris/Digital-Logic.git
 
