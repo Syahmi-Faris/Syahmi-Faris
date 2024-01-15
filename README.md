@@ -21,11 +21,11 @@ MY REPOSITORY
 
 - [PROGRAMMING TECHNIQUE](https://github.com/Syahmi-Faris/Programming-Technique.git)
 
-- DIGITAL LOGIC          : https://github.com/Syahmi-Faris/Digital-Logic.git
+- [DIGITAL LOGIC](https://github.com/Syahmi-Faris/Digital-Logic.git)
 
-- DISCRETE STRUCTURE     : https://github.com/Syahmi-Faris/Discrete-Structure.git
+- [DISCRETE STRUCTURE](https://github.com/Syahmi-Faris/Discrete-Structure.git)
 
-- TECHNOLOGY INFORMATION SYSTEM  : https://github.com/Syahmi-Faris/Technology-Information-System.git
+- [TECHNOLOGY INFORMATION SYSTEM](https://github.com/Syahmi-Faris/Technology-Information-System.git)
 
 
 <h3 align="left">Connect with me:</h3>
