@@ -10,7 +10,7 @@ Never Back Down Never What !!!!!
 
 - 🤝 I’m looking for help with **programming language**
 
-- 👨‍💻 All of my projects are available at [(http://tinyurl.com/2ahcd699)](http://tinyurl.com/2ahcd699)]
+- 👨‍💻 All of my projects are available at [Here](http://tinyurl.com/2ahcd699)
 - 💬 Ask me about **anything about science computer**
 
 - 📫 How to reach me **fsyahmi0707@gmail.com**
