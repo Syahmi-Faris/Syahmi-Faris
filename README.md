@@ -9,8 +9,30 @@ Never Back Down Never What !!!!!
 - 🤝 I’m looking for help with **programming language**
 - 👨‍💻 All of my projects are available at [Here](https://syahmi-faris.github.io/SyahmiFaris.github.io/)
 - 💬 Ask me **anything about science computer**
-
 - 📫 How to reach me **fsyahmi0707@gmail.com**
+
+
+  🎓Education
+------------------------
+* SMK SERI BENTONG
+  - Sijil Pelajaran Malaysia (SPM) | Religous & Pure Science Stream (2017 - 2022)
+* KOLEJ MATRIKULASI NEGERI SEMBILAN
+  - Foundation in Physical Science (2022 - 2023)
+* UTM
+  - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
+ 
+
+  📑Certificate
+------------------------
+- SPM 4A
+- Foundation CGPA 4.00
+- MUET 4.0
+
+🥇Sport
+------------------------
+- Badminton
+- Skipping (Freestyle)
+- Basketball
 
 <p align="left"> </p>
 
