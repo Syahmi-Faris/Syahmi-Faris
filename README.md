@@ -32,6 +32,12 @@ Never Back Down Never What !!!!!
 - Skipping (Freestyle)
 - Basketball
 
+### Language 
+Malay   ⭐⭐⭐⭐⭐<br>
+English ⭐⭐⭐⭐<br>
+Chinese ⭐⭐⭐<br>
+Arabic ⭐<br>
+
 <p align="left"> </p>
 
 MY REPOSITORY 
