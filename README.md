@@ -11,8 +11,7 @@ Never Back Down Never What !!!!!
 - 💬 Ask me **anything about science computer**
 - 📫 How to reach me **fsyahmi0707@gmail.com**
 
-
-  🎓Education
+🎓Education
 ------------------------
 * SMK SERI BENTONG
   - Sijil Pelajaran Malaysia (SPM) | Religous & Pure Science Stream (2017 - 2022)
@@ -21,8 +20,7 @@ Never Back Down Never What !!!!!
 * UTM
   - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
  
-
-  📑Certificate
+📑Certificate
 ------------------------
 - SPM 4A
 - Foundation CGPA 4.00
