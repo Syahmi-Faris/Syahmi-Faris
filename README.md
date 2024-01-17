@@ -5,11 +5,8 @@ Never Back Down Never What !!!!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syahmi-faris&label=Profile%20views&color=0e75b6&style=flat" alt="syahmi-faris" /> </p>
 
 - 🔭 I’m currently studying at **University Technology of Malaysia (UTM)**
-
 - 🌱 I’m currently learning **C++ (for now), Java, HTML**
-
 - 🤝 I’m looking for help with **programming language**
-
 - 👨‍💻 All of my projects are available at [Here](https://syahmi-faris.github.io/SyahmiFaris.github.io/)
 - 💬 Ask me **anything about science computer**
 
