@@ -11,7 +11,7 @@ Never Back Down Never What !!!!!
 - 🤝 I’m looking for help with **programming language**
 
 - 👨‍💻 All of my projects are available at [Here](https://syahmi-faris.github.io/SyahmiFaris.github.io/)
-- 💬 Ask me about **anything about science computer**
+- 💬 Ask me **anything about science computer**
 
 - 📫 How to reach me **fsyahmi0707@gmail.com**
 
