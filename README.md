@@ -33,10 +33,10 @@ Never Back Down Never What !!!!!
 - Basketball
 
 ### Language 
-Malay   ⭐⭐⭐⭐⭐<br>
+Malay   ⭐⭐⭐<br>
 English ⭐⭐⭐⭐<br>
-Chinese ⭐⭐⭐<br>
-Arabic ⭐<br>
+Chinese ⭐⭐⭐⭐⭐<br>
+Arabic  ⭐
 
 <p align="left"> </p>
 
