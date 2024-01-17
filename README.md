@@ -29,7 +29,7 @@ Never Back Down Never What !!!!!
 🥇Sport
 ------------------------
 - Badminton
-- Skipping (Freestyle)
+- Rope Jumping (Freestyle)
 - Basketball
 
 ### Language 
