@@ -7,7 +7,7 @@ Never Back Down Never What !!!!!
 - 🔭 I’m currently studying at **University Technology of Malaysia (UTM)**
 - 🌱 I’m currently learning **C++ (for now), Java, HTML**
 - 🤝 I’m looking for help with **programming language**
-- 👨‍💻 All of my projects are available at [Here](https://syahmi-faris.github.io/SyahmiFaris.github.io/)
+- 👨‍💻 All of my projects are available at [Here](https://syahmi-faris.github.io/syahmifaris.github.io/)
 - 💬 Ask me **anything about science computer**
 - 📫 How to reach me **fsyahmi0707@gmail.com**
 
