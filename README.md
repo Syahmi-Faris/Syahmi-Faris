@@ -24,7 +24,7 @@ Never Back Down Never What !!!!!
 ------------------------
 - PT3 8A
 - SPM 4A
-- Foundation CGPA 4.00
+- MATRICULATION CGPA 4.00
 - MUET 4.0
 
 🥇Sport
