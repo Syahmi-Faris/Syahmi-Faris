@@ -32,6 +32,7 @@ Never Back Down Never What !!!!!
 - Badminton
 - Rope Jumping (Freestyle)
 - Basketball
+- PingPong
 
 ### Language 
 Malay   ⭐⭐⭐⭐⭐<br>
