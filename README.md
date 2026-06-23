@@ -101,7 +101,7 @@ I'm passionate about building real, working systems that turn raw data into usef
 
 I'm always open to collaborating on data engineering projects, internship opportunities, or just a chat about tech.
 
-- 📧 Email: **dxp.solidstate@gmail.com**
+- 📧 Email: **sfaris.rusli@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/syahmi-rusli](https://www.linkedin.com/in/syahmi-rusli-36a2a51a3/)
 - 🌐 Location: Setapak, Kuala Lumpur
 
