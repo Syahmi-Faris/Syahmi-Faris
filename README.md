@@ -3,9 +3,9 @@
 **Computer Science Undergraduate · Data Engineering Major · UTM**
 
 <p>
+  <a href="https://eportfolio-syahmi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/syahmi-rusli-36a2a51a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dxp.solidstate@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:sfaris.rusli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -17,6 +17,8 @@ I'm a **Computer Science** undergraduate at **Universiti Teknologi Malaysia (UTM
 Currently serving as **President of PERSAKA** (Persatuan Mahasiswa Sains Komputer), where I lead the Computer Science student association — overseeing administration, operations, and supporting student academic affairs at the faculty level.
 
 I'm passionate about building real, working systems that turn raw data into useful insights — from web-scraping pipelines that collect 100,000 rows, to Power BI dashboards on real industry datasets, to full data engineering capstones with companies like PPG.
+
+🔗 **Explore my full e-portfolio:** [eportfolio-syahmi.vercel.app](https://eportfolio-syahmi.vercel.app)
 
 ---
 
@@ -68,6 +70,8 @@ I'm passionate about building real, working systems that turn raw data into usef
 | **[UTM Course Registration Admin Dashboard](#)** | SAP CAP (Node.js), JavaScript, HTML/CSS, Chart.js | Full-stack dashboard with admin authentication, semester configuration, analytics, and live activity log |
 | **[KADA Cooperative System](https://github.com/Syahmi-Faris/KADA-System-)** | PHP, HTML, Bootstrap, JavaScript | Team-led cooperative management system with membership and loan processing modules |
 
+➡️ For a full walkthrough of all my coursework, labs, and projects across six semesters, visit my e-portfolio: **[eportfolio-syahmi.vercel.app](https://eportfolio-syahmi.vercel.app)**
+
 ---
 
 ### 🏅 Certifications
@@ -101,9 +105,10 @@ I'm passionate about building real, working systems that turn raw data into usef
 
 I'm always open to collaborating on data engineering projects, internship opportunities, or just a chat about tech.
 
+- 🌐 Portfolio: **[eportfolio-syahmi.vercel.app](https://eportfolio-syahmi.vercel.app)**
 - 📧 Email: **sfaris.rusli@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/syahmi-rusli](https://www.linkedin.com/in/syahmi-rusli-36a2a51a3/)
-- 🌐 Location: Setapak, Kuala Lumpur
+- 📍 Location: Setapak, Kuala Lumpur
 
 ---
 
